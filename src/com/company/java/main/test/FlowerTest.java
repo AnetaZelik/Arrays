@@ -2,7 +2,6 @@ package com.company.java.main.test;
 
 import com.company.java.main.Care;
 import com.company.java.main.Flower;
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
